@@ -17,3 +17,11 @@
 .expand {
   width: 100%;
 }
+
+.inline {
+  display: inline;
+}
+
+.icon-bg{
+  background: no-repeat right url(../images/icon-send.gif);
+}
